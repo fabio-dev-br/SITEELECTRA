@@ -102,7 +102,6 @@ var locations = [
   lat: 51.35591195368754,
   lng: 0.6885889017855789,
   info: "<strong>Bobbing Solar Park, England</strong><br />Bobbing Solar Park<br /><a class='page-scroll' href='#euro'>ver projeto</a>"
-
 },
 {
   lat: 51.32499002105889,
