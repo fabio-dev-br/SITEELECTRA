@@ -90,7 +90,6 @@ var locations = [
   lat: 51.93810692738992,
   lng: 0.3969402444663501,
   info: "<strong>Hydes Farm, England</strong><br />Hydes Farm<br /><a class='page-scroll' href='#euro'>ver projeto</a>"
-
 },
 {
   lat: 51.915583216966944,
