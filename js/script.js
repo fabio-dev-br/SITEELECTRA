@@ -108,13 +108,11 @@ var locations = [
   lat: 51.32499002105889,
   lng: 1.1245519512044666,
   info: "<strong>Woodlands, England</strong><br />Woodlands<br /><a class='page-scroll' href='#euro'>ver projeto</a>"
-
 },
 {
   lat: 51.3387595813001,
   lng: 1.3471511272883845,
   info: "<strong>Thorne Farm, England</strong><br />Thorne Farm<br /><a class='page-scroll' href='#euro'>ver projeto</a>"
-
 },
 {
   lat: 51.64420791054971,
