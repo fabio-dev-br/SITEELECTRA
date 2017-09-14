@@ -236,7 +236,6 @@ var locations = [
   lat: 35.092493930800465,
   lng: 33.34786223001947,
   info: "<strong>Tseri</strong><br />Cyprus<br /><a class='page-scroll' href='#euro'>ver projeto</a>"
-
 },
 {
   lat: 37.21590873011984,
