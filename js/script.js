@@ -8,7 +8,7 @@ function initMap() {
     }
   });
   var infoWin = new google.maps.InfoWindow();
-  // Add markers to the map.
+  // Adicionando markers ao mapa
   var markers = locations.map(function(location, i) {
     var marker = new google.maps.Marker({
       position: location
@@ -20,7 +20,7 @@ function initMap() {
     return marker;
   });
 
-  // Add a marker clusterer to manage the markers.
+  // Add cluster para os markers.
   var markerCluster = new MarkerClusterer(map, markers, {
     imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'
   });
@@ -241,7 +241,7 @@ var locations = [
 {
   lat: 37.21590873011984,
   lng: 34.99884734477155,
-  info: "<strong>Demirçit Mahallesi</strong><br />Turkey<br /><a class='page-scroll' href='#euro'>ver projeto</a>"
+  info: "<strong>Demirçit Mahallesi</strong><br />Turkey<br /><a class='page-scroll' href='#asia'>ver projeto</a>"
 
 },
 {
@@ -252,7 +252,7 @@ var locations = [
 {
   lat: 37.66217597667015,
   lng: 128.66910574395752,
-  info:"<strong>PyeongChang 2018 - International Bradcast Center (IBC)</strong><br />South Korea<br /><a class='page-scroll' href='#euro'>ver projeto</a>"
+  info:"<strong>PyeongChang 2018 - International Bradcast Center (IBC)</strong><br />South Korea<br /><a class='page-scroll' href='#asia'>ver projeto</a>"
 
 }
 ];
