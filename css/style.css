@@ -11,7 +11,7 @@ body {
 }
 hr {
 	max-width:50px;
-	border-color:#65e00d;
+	border-color:#184482;
 	border-width:3px;
 }
 
@@ -19,7 +19,7 @@ hr.light {
 	border-color:#fff;
 }
 a {
-	color:#65e00d;
+	color:#184482;
 	-webkit-transition:all .35s;
 	-moz-transition:all .35s;
 	transition:all .35s;
@@ -38,7 +38,7 @@ p {
 	margin-top:15px;
 }
 .bg-primary {
-	background-color:#65e00d;
+	background-color:#184482;
 }
 .bg-dark {
 	color:#ccc;
@@ -77,7 +77,7 @@ aside {
 	text-transform:uppercase;
 	font-family:'Open Sans','Helvetica Neue',Arial,sans-serif;
 	font-weight:700;
-	color:#65e00d;
+	color:#184482;
 }
 .navbar-default .navbar-header .navbar-brand:hover,.navbar-default .navbar-header .navbar-brand:focus {
 	color:#eb3812;
@@ -91,7 +91,7 @@ aside {
 	letter-spacing:0.8px;
 }
 .navbar-default .nav>li>a:hover,.navbar-default .nav>li>a:focus:hover {
-	color:#65e00d;
+	color:#184482;
 }
 .navbar-default .nav>li.active>a,.navbar-default .nav>li.active>a:focus {
 	color:#1C4481!important;
@@ -116,7 +116,7 @@ aside {
 		color:#333;
 	}
 	.navbar-default.affix .navbar-header .navbar-brand {
-		color:#65e00d;
+		color:#184482;
 	}
 	.navbar-default.affix .navbar-header .navbar-brand:hover,.navbar-default.affix .navbar-header .navbar-brand:focus {
 		color:#eb3812;
@@ -125,7 +125,7 @@ aside {
 		color:#222;
 	}
 	.navbar-default.affix .nav>li>a:hover,.navbar-default.affix .nav>li>a:focus:hover {
-		color:#65e00d;
+		color:#184482;
 	}
 }
 header {
@@ -258,7 +258,7 @@ header .header-content .header-content-inner p {
 	margin:0 auto 20px;
 }
 .text-primary {
-	color:#65e00d;
+	color:#184482;
 }
 .no-gutter>[class*=col-] {
 	padding-right:0;
@@ -289,9 +289,9 @@ header .header-content .header-content-inner p {
 	background-color:#222;
 }
 .btn-primary {
-	border-color:#65e00d;
+	border-color:#184482;
 	color:#fff;
-	background-color:#65e00d;
+	background-color:#184482;
 	-webkit-transition:all .35s;
 	-moz-transition:all .35s;
 	transition:all .35s;
@@ -305,11 +305,11 @@ header .header-content .header-content-inner p {
 	background-image:none;
 }
 .btn-primary.disabled,.btn-primary[disabled],fieldset[disabled] .btn-primary,.btn-primary.disabled:hover,.btn-primary[disabled]:hover,fieldset[disabled] .btn-primary:hover,.btn-primary.disabled:focus,.btn-primary[disabled]:focus,fieldset[disabled] .btn-primary:focus,.btn-primary.disabled.focus,.btn-primary[disabled].focus,fieldset[disabled] .btn-primary.focus,.btn-primary.disabled:active,.btn-primary[disabled]:active,fieldset[disabled] .btn-primary:active,.btn-primary.disabled.active,.btn-primary[disabled].active,fieldset[disabled] .btn-primary.active {
-	border-color:#65e00d;
-	background-color:#65e00d;
+	border-color:#184482;
+	background-color:#184482;
 }
 .btn-primary .badge {
-	color:#65e00d;
+	color:#184482;
 	background-color:#fff;
 }
 .btn {
@@ -366,12 +366,12 @@ body {
 	display:none;
 }
 .carousel-indicators li,.carousel-indicators li.active {
-	width:15px;
-	height:15px;
+	width:20px;
+	height:20px;
 	margin:0;
 }
 .intro .item {
-	min-height:680px;
+	min-height:400px;
 	height:100%;
 	width:100%;
 	background-size:cover;
@@ -762,7 +762,7 @@ body {
 .wow-pricing-table>div.featured {
 }
 .wow-pricing-table>div.featured .wow-pricing-header {
-	background-color:#65e00d;
+	background-color:#184482;
 }
 .wow-pricing-table:hover {
 	margin-top:-5px;
@@ -825,7 +825,7 @@ body {
 	padding:12px 22px 14px;
 }
 .featured .wow-pricing-per,.featured .wow-pricing-cost,.featured .wow-pricing-button .wow-button,.buttoncolor {
-	background-color: #65e00d;
+	background-color: #184482;
 }
 /*=========================*/
 /* Timeline */
@@ -1003,7 +1003,7 @@ h1.bottombrand {
 	margin-top:0;
 }
 h1.bottombrand:first-letter {
-	color:#65e00d;
+	color:#184482;
 }
 input.error,textarea.error {
 	border:1px solid red;
@@ -1085,4 +1085,11 @@ input.error,textarea.error {
 #map {
     width: 100%;
     height: 100%;
+}
+
+/* projetos */
+#back-america {
+	width: 90%; 
+	height: 400px;	
+	background-image: url("https://novayork.com/sites/default/files/estatua_da_liberdade_2.jp") !important;
 }
